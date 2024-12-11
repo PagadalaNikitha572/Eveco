@@ -16,16 +16,16 @@ Take-Back Services: Find nearby recycling partners and recycle waste responsibly
 Responsive Design: Accessible on mobile, tablet, and desktop devices.
 
 ### Technologies Used
-Frontend:  
+**Frontend**:  
 ReactJS  
-Backend:  
+**Backend**:  
 NodeJS  
 ExpressJS   
-Database:    
+**Database**:    
 MongoDB   
-Styling:  
+**Styling**:  
 CSS   
 Bootstrap   
-Tools:   
+**Tools**:   
 Development: Visual Studio Code, GitHub  
 Database Management: MongoDB Compass  
