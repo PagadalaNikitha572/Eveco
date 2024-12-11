@@ -29,3 +29,7 @@ Bootstrap
 **Tools**:   
 Development: Visual Studio Code, GitHub  
 Database Management: MongoDB Compass  
+
+
+## Project Images
+![Eveco HomePage Screenshot](homepage.png) 
