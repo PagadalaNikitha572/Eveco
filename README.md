@@ -33,3 +33,8 @@ Database Management: MongoDB Compass
 
 ## Project Images
 ![Eveco HomePage Screenshot](homepage.png) 
+![Eveco HomePage Screenshot](signInUp.png) 
+![Eveco HomePage Screenshot](collections.png) 
+![Eveco HomePage Screenshot](products.png) 
+![Eveco HomePage Screenshot](productItem.png) 
+![Eveco HomePage Screenshot](cartPage.png) 
