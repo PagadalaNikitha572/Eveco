@@ -8,8 +8,11 @@ Provide a seamless user experience for sustainable e-commerce and recycling.
 
 ### Features
 User Authentication: Sign in with Gmail using OAuth 2.0 integration.
+
 Eco-Friendly Product Listings: Browse and purchase sustainable products.
+
 Take-Back Services: Find nearby recycling partners and recycle waste responsibly.
+
 Responsive Design: Accessible on mobile, tablet, and desktop devices.
 
 ### Technologies Used
